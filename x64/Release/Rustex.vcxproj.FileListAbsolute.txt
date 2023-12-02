@@ -1,0 +1,6 @@
+C:\Users\26\Desktop\ремаук\c++\Rustex\x64\Release\Rustex.dll
+C:\Users\26\Desktop\RemakeDLC C++\Rustex\x64\Release\Rustex.dll
+F:\RemakeDLC C++\Rustex\x64\Release\Rustex.dll
+C:\Users\user\Desktop\RemakeDLC C++\Rustex\x64\Release\Rustex.dll
+C:\Users\26\Desktop\Rustex C++ new\x64\Release\Rustex.dll
+C:\Users\user\Desktop\Rustex C++ new\x64\Release\Rustex.dll
